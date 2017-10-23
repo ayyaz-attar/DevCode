@@ -6,6 +6,10 @@ public class DevCodeTest {
 		// TODO Auto-generated method stub
 		System.out.println("Dev code Deployed");
 		System.out.println("Dev code Deployed");
+	
+	}
+	public int add(int a, int b){
+	return a+b;
 	}
 
 }
